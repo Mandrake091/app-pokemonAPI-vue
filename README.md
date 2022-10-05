@@ -1,5 +1,8 @@
 # esercitazione-vue
-
+API IMAGE
+https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/${key+1}.svg
+API POKEMONS
+https://pokeapi.co/api/v2/pokemon?limit=151&offset=0
 ## Project setup
 ```
 npm install
